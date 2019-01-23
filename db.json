@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "user": [
+    {
+      "id": 4,
+      "email": "test@gmail.com",
+      "firstName": "saSas",
+      "lastName": "CCCC"
+    },
+    {
+      "id": 5,
+      "email": "sankaranarayanan097@gmail.com",
+      "firstName": "sadasdasdasdasd",
+      "lastName": "sdasdasdasdasd"
+    },
+    {
+      "id": 6,
+      "email": "test@gmail.com",
+      "firstName": "SADSADASD",
+      "lastName": "SADASDASD"
+    },
+    {
+      "firstName": "Sankara",
+      "lastName": "narayanan",
+      "email": "sankaranarayanan097@gmail.com",
+      "password": "asasasas",
+      "id": 7
+    }
+  ]
+}
